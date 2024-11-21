@@ -1,3 +1,4 @@
+# exemplo deu um netlify.toml
 [build]
   command = "vite build"
   functions = "netlify/functions"
